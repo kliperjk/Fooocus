@@ -39,7 +39,7 @@
     "default_aspect_ratio": "1152*896",
     "checkpoint_downloads": {
         "juggernautXL_v8Rundiffusion.safetensors": "https://huggingface.co/lllyasviel/fav_models/resolve/main/fav/juggernautXL_v8Rundiffusion.safetensors",
-        "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://huggingface.co/lowercase/misc/resolve/main/realvisxlV30Turbo_v30TurboBakedvae.safetensors?download=true",
+        "realvisxlV30Turbo_v30TurboBakedvae.safetensors": "https://huggingface.co/lowercase/misc/resolve/main/realvisxlV30Turbo_v30TurboBakedvae.safetensors?download=true"
     },
     "embeddings_downloads": {},
     "lora_downloads": {
